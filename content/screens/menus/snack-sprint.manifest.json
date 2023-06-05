@@ -1,0 +1,74 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1685941734740,
+  "entries": [
+    {
+      "path": "/content/screens/menus/snack-sprint.html"
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1685940756000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1685940756000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1685940757000
+    },
+    {
+      "path": "/content/screens/menus/media_17710df9a502f677386e8eec1b0c60148bb497885.png?width=750&format=png&optimize=medium",
+      "hash": "17710df9a502f677386e8eec1b0c60148bb497885"
+    },
+    {
+      "path": "/content/screens/menus/media_16c8750de9b7d1833b091954d3555b5cdde820609.png?width=750&format=png&optimize=medium",
+      "hash": "16c8750de9b7d1833b091954d3555b5cdde820609"
+    },
+    {
+      "path": "/content/screens/menus/media_1fe40cd3d007e2da7805491afc2ba9740972a0f37.png?width=750&format=png&optimize=medium",
+      "hash": "1fe40cd3d007e2da7805491afc2ba9740972a0f37"
+    },
+    {
+      "path": "/content/screens/menus/media_1b899aeaf068b4b131000ba4f814ad2a353c885f2.png?width=750&format=png&optimize=medium",
+      "hash": "1b899aeaf068b4b131000ba4f814ad2a353c885f2"
+    },
+    {
+      "path": "/content/screens/menus/media_1ab3939142dc0d1b6e4d18f6661912b8fa05b46aa.png?width=750&format=png&optimize=medium",
+      "hash": "1ab3939142dc0d1b6e4d18f6661912b8fa05b46aa"
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1685940756000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1685940755000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1685940755000
+    },
+    {
+      "path": "/blocks/menutable/menutable.js",
+      "timestamp": 1685940756000
+    },
+    {
+      "path": "/blocks/menutable/menutable.css",
+      "timestamp": 1685940756000
+    },
+    {
+      "path": "/blocks/menutable/qrcode.min.js",
+      "timestamp": 1685940756000
+    }
+  ]
+}
